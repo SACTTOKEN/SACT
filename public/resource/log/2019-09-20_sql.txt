@@ -1,0 +1,24 @@
+2019-09-20 10:15:22 121.204.44.15
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 10:15:22 121.204.44.15
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 10:26:55 192.168.50.183
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 10:26:55 192.168.50.183
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 10:34:00 192.168.50.183
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 10:34:00 192.168.50.183
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 15:48:10 124.160.214.201
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-20 15:48:10 124.160.214.201
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

@@ -1,0 +1,27 @@
+2019-09-21 10:44:29 117.25.108.169
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-21 10:51:37 117.25.108.169
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-21 10:52:10 117.25.108.169
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-21 10:55:38 117.25.108.169
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-21 10:55:52 117.25.108.169
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-21 11:10:37 117.25.108.169
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-21 11:10:37 117.25.108.169
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-21 20:08:25 111.74.37.230
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-21 20:08:25 111.74.37.230
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

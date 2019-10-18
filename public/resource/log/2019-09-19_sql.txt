@@ -1,0 +1,27 @@
+2019-09-19 11:45:35 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:46:20 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:46:47 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:46:58 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:48:22 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:51:11 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:51:25 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:51:30 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+
+2019-09-19 11:51:35 121.204.44.15
+数据：Unknown column 'vip_rating' in 'field list'
+

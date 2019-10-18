@@ -1,0 +1,6 @@
+{
+    "require": {
+            "jpush/jpush": "^3.5",
+            "myxtype/ethereum-client": "dev-master"
+            }
+}

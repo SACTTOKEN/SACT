@@ -1,0 +1,18 @@
+2019-09-05 11:51:40 121.204.66.248
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-05 11:51:40 121.204.66.248
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-05 15:04:46 121.204.66.248
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-05 15:04:46 121.204.66.248
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-05 17:51:15 121.204.66.248
+数据：Unknown column 'status' in 'field list'
+
+2019-09-05 17:51:56 121.204.66.248
+数据：Unknown column 'status' in 'field list'
+

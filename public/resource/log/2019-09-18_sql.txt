@@ -1,0 +1,102 @@
+2019-09-18 11:25:44 192.168.50.183
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:25:44 192.168.50.183
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:25:58 192.168.50.183
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:25:58 192.168.50.183
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:47:56 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:47:56 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:49:06 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:49:06 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:50:37 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:50:37 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 11:51:48 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:51:48 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:53:40 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:53:40 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:54:38 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:54:38 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:55:08 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:55:08 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:56:33 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:56:33 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:57:16 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 11:57:16 117.25.33.210
+数据：Column 'oid' cannot be null
+
+2019-09-18 12:46:30 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 12:46:30 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 14:03:00 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 14:03:00 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 14:11:06 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 14:11:06 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 15:46:50 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 15:46:50 117.25.33.210
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 23:31:15 124.160.215.202
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 23:31:15 124.160.215.202
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 23:31:51 124.160.215.202
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-09-18 23:31:51 124.160.215.202
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

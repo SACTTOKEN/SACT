@@ -1,0 +1,30 @@
+2019-08-26 17:15:54 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:15:54 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:15:54 121.204.67.254
+数据：Unknown column 'card' in 'field list'
+
+2019-08-26 17:21:17 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:21:17 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:21:17 121.204.67.254
+数据：Unknown column 'card' in 'field list'
+
+2019-08-26 17:24:03 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:24:03 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:24:40 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-26 17:24:40 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

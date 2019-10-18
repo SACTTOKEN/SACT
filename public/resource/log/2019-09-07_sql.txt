@@ -1,0 +1,42 @@
+2019-09-07 15:32:41 121.204.66.248
+数据：Unknown column 'viprd_jtsf' in 'field list'
+
+2019-09-07 15:33:56 121.204.66.248
+数据：Unknown column 'viprd_jtsf' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+
+2019-09-07 15:54:17 121.204.66.248
+数据：Unknown column '0' in 'field list'
+

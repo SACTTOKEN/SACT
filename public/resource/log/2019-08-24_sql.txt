@@ -1,0 +1,6 @@
+2019-08-24 15:41:51 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND "is_pay" = 0' at line 1
+
+2019-08-24 15:45:22 121.204.67.254
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND "is_pay" = 0' at line 1
+

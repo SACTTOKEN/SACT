@@ -1,0 +1,54 @@
+2019-08-27 10:07:20 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:07:20 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:07:38 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:07:38 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:31 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:31 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:49 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:49 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:58 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:09:58 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:10:34 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:10:34 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:11:11 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 10:11:11 121.204.67.254
+数据：Column 'balance' cannot be null
+
+2019-08-27 15:22:16 121.204.67.254
+数据：Unknown column 'session_key' in 'field list'
+
+2019-08-27 15:22:56 121.204.67.254
+数据：Unknown column 'session_key' in 'field list'
+
+2019-08-27 16:26:22 117.136.75.227
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-08-27 16:26:22 117.136.75.227
+数据：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

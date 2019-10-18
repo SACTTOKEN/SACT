@@ -1,0 +1,90 @@
+2019-10-17 00:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 01:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 02:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 03:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 04:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 05:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 06:00:02 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 07:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 08:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 09:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 10:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 11:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 11:03:10 121.204.44.200
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 11:04:00 121.204.44.200
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 11:04:17 180.163.220.66
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 11:04:56 42.236.10.84
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 11:05:30 121.204.44.200
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 11:08:20 121.204.44.200
+数据：Lock wait timeout exceeded; try restarting transaction
+
+2019-10-17 12:00:02 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 13:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 14:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 15:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 16:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 17:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 18:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 19:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 20:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 21:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 22:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-17 23:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+

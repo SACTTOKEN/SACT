@@ -1,0 +1,45 @@
+2019-10-16 09:53:53 121.204.44.200
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 10:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 11:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 12:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 13:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 14:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 15:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 16:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 17:00:02 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 18:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 19:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 20:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 21:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 22:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
+2019-10-16 23:00:01 127.0.0.1
+数据：Unknown column 'dtsf_usdt' in 'field list'
+
